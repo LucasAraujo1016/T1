@@ -1,0 +1,1634 @@
+[
+  {
+    "nome": "Ana Araújo",
+    "nomeSocial": "Ana Batista",
+    "genero": "F",
+    "cpf": {
+      "valor": "330.357.203-70",
+      "dataEmissao": "2022-05-12T03:00:00.000Z"
+    },
+    "rgs": [
+      {
+        "valor": "29.217.520-2",
+        "dataEmissao": "2014-04-14T03:00:00.000Z"
+      }
+    ],
+    "dataCadastro": "2024-06-27T03:00:00.000Z",
+    "telefones": [
+      {
+        "ddd": "65",
+        "numero": "98375-2501"
+      }
+    ],
+    "produtosConsumidos": [
+      {
+        "nome": "Creme Hidratante para Mãos",
+        "valor": 18
+      },
+      {
+        "nome": "Pomada Modeladora Masculina",
+        "valor": 32
+      },
+      {
+        "nome": "Spray Fixador de Cabelo",
+        "valor": 20
+      },
+      {
+        "nome": "Shampoo Antiqueda Masculino",
+        "valor": 34.2
+      }
+    ],
+    "servicosConsumidos": [
+      {
+        "nome": "Venda de Shampoo Antiqueda",
+        "valor": 60
+      },
+      {
+        "nome": "Design de Sobrancelhas",
+        "valor": 30
+      },
+      {
+        "nome": "Botox Capilar",
+        "valor": 150
+      },
+      {
+        "nome": "Massagem Relaxante",
+        "valor": 90
+      },
+      {
+        "nome": "Redução de Medidas com Drenagem",
+        "valor": 200
+      }
+    ]
+  },
+  {
+    "nome": "Beatriz Pereira",
+    "nomeSocial": "Beatriz Santos",
+    "genero": "F",
+    "cpf": {
+      "valor": "894.262.819-84",
+      "dataEmissao": "2022-02-22T03:00:00.000Z"
+    },
+    "rgs": [
+      {
+        "valor": "65.573.257-5",
+        "dataEmissao": "2013-11-09T02:00:00.000Z"
+      }
+    ],
+    "dataCadastro": "2024-11-24T03:00:00.000Z",
+    "telefones": [
+      {
+        "ddd": "51",
+        "numero": "95888-6382"
+      }
+    ],
+    "produtosConsumidos": [
+      {
+        "nome": "Creme Anti-idade Facial",
+        "valor": 59.9
+      },
+      {
+        "nome": "Espuma de Barbear Refrescante",
+        "valor": 21.75
+      },
+      {
+        "nome": "Removedor de Esmalte Sem Acetona",
+        "valor": 9.5
+      },
+      {
+        "nome": "Balm Pós-Barba Refrescante",
+        "valor": 26
+      },
+      {
+        "nome": "Cera para Barba e Bigode",
+        "valor": 19.9
+      }
+    ],
+    "servicosConsumidos": [
+      {
+        "nome": "Venda de Shampoo Antiqueda",
+        "valor": 60
+      },
+      {
+        "nome": "Aplicação de Botox Facial",
+        "valor": 400
+      }
+    ]
+  },
+  {
+    "nome": "Carla Batista",
+    "nomeSocial": "Carla Lima",
+    "genero": "F",
+    "cpf": {
+      "valor": "320.147.606-42",
+      "dataEmissao": "2018-06-04T03:00:00.000Z"
+    },
+    "rgs": [
+      {
+        "valor": "16.450.462-1",
+        "dataEmissao": "2011-02-13T02:00:00.000Z"
+      }
+    ],
+    "dataCadastro": "2024-10-19T03:00:00.000Z",
+    "telefones": [
+      {
+        "ddd": "34",
+        "numero": "94664-6323"
+      }
+    ],
+    "produtosConsumidos": [
+      {
+        "nome": "Cera para Barba e Bigode",
+        "valor": 19.9
+      },
+      {
+        "nome": "Creme Anti-idade Facial",
+        "valor": 59.9
+      },
+      {
+        "nome": "Creme Hidratante para Mãos",
+        "valor": 18
+      },
+      {
+        "nome": "Tintura para Cabelo Loiro Claro",
+        "valor": 27.8
+      },
+      {
+        "nome": "Protetor Térmico Capilar",
+        "valor": 28.4
+      }
+    ],
+    "servicosConsumidos": [
+      {
+        "nome": "Remoção de Rugas com Laser",
+        "valor": 300
+      },
+      {
+        "nome": "Manicure Tradicional",
+        "valor": 35
+      },
+      {
+        "nome": "Hidratação Capilar",
+        "valor": 60
+      }
+    ]
+  },
+  {
+    "nome": "Daniela Araújo",
+    "nomeSocial": "Daniela Souza",
+    "genero": "F",
+    "cpf": {
+      "valor": "959.548.151-63",
+      "dataEmissao": "2019-10-02T03:00:00.000Z"
+    },
+    "rgs": [
+      {
+        "valor": "15.110.294-9",
+        "dataEmissao": "2014-01-19T02:00:00.000Z"
+      }
+    ],
+    "dataCadastro": "2024-08-26T03:00:00.000Z",
+    "telefones": [
+      {
+        "ddd": "64",
+        "numero": "97438-8214"
+      }
+    ],
+    "produtosConsumidos": [
+      {
+        "nome": "Máscara Capilar Nutritiva",
+        "valor": 45.9
+      },
+      {
+        "nome": "Condicionador Hidratante",
+        "valor": 24
+      }
+    ],
+    "servicosConsumidos": [
+      {
+        "nome": "Coloração de Cabelo",
+        "valor": 120
+      },
+      {
+        "nome": "Tratamento para Emagrecimento",
+        "valor": 350
+      }
+    ]
+  },
+  {
+    "nome": "Eduarda Cardoso",
+    "nomeSocial": "Eduarda Souza",
+    "genero": "F",
+    "cpf": {
+      "valor": "200.166.440-68",
+      "dataEmissao": "2020-04-04T03:00:00.000Z"
+    },
+    "rgs": [
+      {
+        "valor": "63.249.529-2",
+        "dataEmissao": "2017-07-11T03:00:00.000Z"
+      }
+    ],
+    "dataCadastro": "2024-07-17T03:00:00.000Z",
+    "telefones": [
+      {
+        "ddd": "92",
+        "numero": "92512-9579"
+      }
+    ],
+    "produtosConsumidos": [
+      {
+        "nome": "Esmalte Vermelho Intenso",
+        "valor": 12.9
+      },
+      {
+        "nome": "Sérum para Crescimento de Cílios",
+        "valor": 39.99
+      },
+      {
+        "nome": "Tintura para Cabelo Loiro Claro",
+        "valor": 27.8
+      },
+      {
+        "nome": "Balm Pós-Barba Refrescante",
+        "valor": 26
+      }
+    ],
+    "servicosConsumidos": [
+      {
+        "nome": "Design de Sobrancelhas",
+        "valor": 30
+      },
+      {
+        "nome": "Tratamento para Emagrecimento",
+        "valor": 350
+      }
+    ]
+  },
+  {
+    "nome": "Fernanda Santos",
+    "nomeSocial": "Fernanda Lima",
+    "genero": "F",
+    "cpf": {
+      "valor": "437.994.594-68",
+      "dataEmissao": "2017-01-11T02:00:00.000Z"
+    },
+    "rgs": [
+      {
+        "valor": "19.314.669-9",
+        "dataEmissao": "2012-05-17T03:00:00.000Z"
+      }
+    ],
+    "dataCadastro": "2024-07-28T03:00:00.000Z",
+    "telefones": [
+      {
+        "ddd": "81",
+        "numero": "98708-2576"
+      }
+    ],
+    "produtosConsumidos": [
+      {
+        "nome": "Creme Hidratante para Mãos",
+        "valor": 18
+      },
+      {
+        "nome": "Spray Fixador de Cabelo",
+        "valor": 20
+      }
+    ],
+    "servicosConsumidos": [
+      {
+        "nome": "Corte de Cabelo Masculino",
+        "valor": 35
+      },
+      {
+        "nome": "Remoção de Manchas na Pele",
+        "valor": 250
+      },
+      {
+        "nome": "Manicure Tradicional",
+        "valor": 35
+      },
+      {
+        "nome": "Tratamento para Queda de Cabelo",
+        "valor": 220
+      },
+      {
+        "nome": "Corte de Cabelo Feminino",
+        "valor": 50
+      }
+    ]
+  },
+  {
+    "nome": "Gabriela Batista",
+    "nomeSocial": "Gabriela Batista",
+    "genero": "F",
+    "cpf": {
+      "valor": "430.190.681-69",
+      "dataEmissao": "2015-06-03T03:00:00.000Z"
+    },
+    "rgs": [
+      {
+        "valor": "10.874.574-3",
+        "dataEmissao": "2011-05-13T03:00:00.000Z"
+      }
+    ],
+    "dataCadastro": "2024-09-25T03:00:00.000Z",
+    "telefones": [
+      {
+        "ddd": "97",
+        "numero": "90733-2095"
+      }
+    ],
+    "produtosConsumidos": [
+      {
+        "nome": "Pomada Modeladora Masculina",
+        "valor": 32
+      },
+      {
+        "nome": "Spray Fixador de Cabelo",
+        "valor": 20
+      },
+      {
+        "nome": "Esmalte Vermelho Intenso",
+        "valor": 12.9
+      },
+      {
+        "nome": "Shampoo Reconstrutor",
+        "valor": 22.3
+      }
+    ],
+    "servicosConsumidos": [
+      {
+        "nome": "Modelagem de Barba",
+        "valor": 30
+      },
+      {
+        "nome": "Manicure Tradicional",
+        "valor": 35
+      }
+    ]
+  },
+  {
+    "nome": "Helena Moura",
+    "nomeSocial": "Helena Costa",
+    "genero": "F",
+    "cpf": {
+      "valor": "517.502.645-14",
+      "dataEmissao": "2021-08-17T03:00:00.000Z"
+    },
+    "rgs": [
+      {
+        "valor": "87.350.200-2",
+        "dataEmissao": "2012-09-06T03:00:00.000Z"
+      }
+    ],
+    "dataCadastro": "2024-02-09T03:00:00.000Z",
+    "telefones": [
+      {
+        "ddd": "29",
+        "numero": "92495-5607"
+      }
+    ],
+    "produtosConsumidos": [
+      {
+        "nome": "Esmalte Vermelho Intenso",
+        "valor": 12.9
+      },
+      {
+        "nome": "Óleo Capilar de Argan",
+        "valor": 38.5
+      },
+      {
+        "nome": "Máscara de Argila Verde",
+        "valor": 25
+      },
+      {
+        "nome": "Pomada Modeladora Masculina",
+        "valor": 32
+      }
+    ],
+    "servicosConsumidos": [
+      {
+        "nome": "Pedicure Tradicional",
+        "valor": 40
+      },
+      {
+        "nome": "Remoção de Rugas com Laser",
+        "valor": 300
+      },
+      {
+        "nome": "Barba Completa com Navalha",
+        "valor": 25
+      },
+      {
+        "nome": "Venda de Shampoo Antiqueda",
+        "valor": 60
+      }
+    ]
+  },
+  {
+    "nome": "Isabela Martins",
+    "nomeSocial": "Isabela Gomes",
+    "genero": "F",
+    "cpf": {
+      "valor": "992.521.891-33",
+      "dataEmissao": "2022-02-24T03:00:00.000Z"
+    },
+    "rgs": [
+      {
+        "valor": "76.737.887-5",
+        "dataEmissao": "2017-06-02T03:00:00.000Z"
+      }
+    ],
+    "dataCadastro": "2024-08-10T03:00:00.000Z",
+    "telefones": [
+      {
+        "ddd": "81",
+        "numero": "95730-5534"
+      }
+    ],
+    "produtosConsumidos": [
+      {
+        "nome": "Máscara de Argila Verde",
+        "valor": 25
+      },
+      {
+        "nome": "Shampoo Antiqueda Masculino",
+        "valor": 34.2
+      },
+      {
+        "nome": "Balm Pós-Barba Refrescante",
+        "valor": 26
+      },
+      {
+        "nome": "Loção Tônica Facial",
+        "valor": 29.9
+      },
+      {
+        "nome": "Creme Anti-idade Facial",
+        "valor": 59.9
+      }
+    ],
+    "servicosConsumidos": [
+      {
+        "nome": "Coloração de Cabelo",
+        "valor": 120
+      },
+      {
+        "nome": "Modelagem de Barba",
+        "valor": 30
+      },
+      {
+        "nome": "Design de Sobrancelhas",
+        "valor": 30
+      },
+      {
+        "nome": "Barba Completa com Navalha",
+        "valor": 25
+      }
+    ]
+  },
+  {
+    "nome": "Juliana Moura",
+    "nomeSocial": "Juliana Martins",
+    "genero": "F",
+    "cpf": {
+      "valor": "187.137.233-39",
+      "dataEmissao": "2018-08-02T03:00:00.000Z"
+    },
+    "rgs": [
+      {
+        "valor": "13.776.247-1",
+        "dataEmissao": "2020-10-21T03:00:00.000Z"
+      }
+    ],
+    "dataCadastro": "2024-02-17T03:00:00.000Z",
+    "telefones": [
+      {
+        "ddd": "70",
+        "numero": "95336-3299"
+      }
+    ],
+    "produtosConsumidos": [
+      {
+        "nome": "Loção Tônica Facial",
+        "valor": 29.9
+      },
+      {
+        "nome": "Removedor de Esmalte Sem Acetona",
+        "valor": 9.5
+      },
+      {
+        "nome": "Protetor Térmico Capilar",
+        "valor": 28.4
+      },
+      {
+        "nome": "Esmalte Vermelho Intenso",
+        "valor": 12.9
+      }
+    ],
+    "servicosConsumidos": [
+      {
+        "nome": "Tratamento para Emagrecimento",
+        "valor": 350
+      },
+      {
+        "nome": "Manicure Tradicional",
+        "valor": 35
+      },
+      {
+        "nome": "Redução de Medidas com Drenagem",
+        "valor": 200
+      },
+      {
+        "nome": "Botox Capilar",
+        "valor": 150
+      },
+      {
+        "nome": "Pedicure Tradicional",
+        "valor": 40
+      }
+    ]
+  },
+  {
+    "nome": "Karla Costa",
+    "nomeSocial": "Karla Barbosa",
+    "genero": "F",
+    "cpf": {
+      "valor": "957.242.378-26",
+      "dataEmissao": "2018-07-16T03:00:00.000Z"
+    },
+    "rgs": [
+      {
+        "valor": "16.970.136-1",
+        "dataEmissao": "2010-11-09T02:00:00.000Z"
+      }
+    ],
+    "dataCadastro": "2024-10-09T03:00:00.000Z",
+    "telefones": [
+      {
+        "ddd": "14",
+        "numero": "99012-5957"
+      }
+    ],
+    "produtosConsumidos": [
+      {
+        "nome": "Shampoo Reconstrutor",
+        "valor": 22.3
+      },
+      {
+        "nome": "Tintura para Cabelo Loiro Claro",
+        "valor": 27.8
+      },
+      {
+        "nome": "Spray Fixador de Cabelo",
+        "valor": 20
+      },
+      {
+        "nome": "Pomada Modeladora Masculina",
+        "valor": 32
+      },
+      {
+        "nome": "Creme Hidratante para Mãos",
+        "valor": 18
+      }
+    ],
+    "servicosConsumidos": [
+      {
+        "nome": "Manicure Tradicional",
+        "valor": 35
+      },
+      {
+        "nome": "Escova Progressiva",
+        "valor": 180
+      },
+      {
+        "nome": "Massagem Relaxante",
+        "valor": 90
+      }
+    ]
+  },
+  {
+    "nome": "Larissa Dias",
+    "nomeSocial": "Larissa Oliveira",
+    "genero": "F",
+    "cpf": {
+      "valor": "605.217.140-89",
+      "dataEmissao": "2019-03-17T03:00:00.000Z"
+    },
+    "rgs": [
+      {
+        "valor": "22.318.658-4",
+        "dataEmissao": "2020-07-20T03:00:00.000Z"
+      }
+    ],
+    "dataCadastro": "2024-09-20T03:00:00.000Z",
+    "telefones": [
+      {
+        "ddd": "59",
+        "numero": "95429-6493"
+      }
+    ],
+    "produtosConsumidos": [
+      {
+        "nome": "Cera para Barba e Bigode",
+        "valor": 19.9
+      },
+      {
+        "nome": "Shampoo Reconstrutor",
+        "valor": 22.3
+      }
+    ],
+    "servicosConsumidos": [
+      {
+        "nome": "Barba Completa com Navalha",
+        "valor": 25
+      },
+      {
+        "nome": "Venda de Pomada Modeladora",
+        "valor": 45
+      },
+      {
+        "nome": "Design de Sobrancelhas",
+        "valor": 30
+      },
+      {
+        "nome": "Botox Capilar",
+        "valor": 150
+      }
+    ]
+  },
+  {
+    "nome": "Marina Moura",
+    "nomeSocial": "Marina Alves",
+    "genero": "F",
+    "cpf": {
+      "valor": "426.416.547-84",
+      "dataEmissao": "2021-06-21T03:00:00.000Z"
+    },
+    "rgs": [
+      {
+        "valor": "41.268.159-1",
+        "dataEmissao": "2017-07-08T03:00:00.000Z"
+      }
+    ],
+    "dataCadastro": "2024-02-24T03:00:00.000Z",
+    "telefones": [
+      {
+        "ddd": "43",
+        "numero": "98937-5663"
+      }
+    ],
+    "produtosConsumidos": [
+      {
+        "nome": "Protetor Térmico Capilar",
+        "valor": 28.4
+      },
+      {
+        "nome": "Creme Hidratante para Mãos",
+        "valor": 18
+      },
+      {
+        "nome": "Shampoo Antiqueda Masculino",
+        "valor": 34.2
+      },
+      {
+        "nome": "Shampoo Reconstrutor",
+        "valor": 22.3
+      },
+      {
+        "nome": "Tintura para Cabelo Loiro Claro",
+        "valor": 27.8
+      }
+    ],
+    "servicosConsumidos": [
+      {
+        "nome": "Venda de Pomada Modeladora",
+        "valor": 45
+      },
+      {
+        "nome": "Massagem Relaxante",
+        "valor": 90
+      },
+      {
+        "nome": "Modelagem de Barba",
+        "valor": 30
+      }
+    ]
+  },
+  {
+    "nome": "Natália Pereira",
+    "nomeSocial": "Natália Souza",
+    "genero": "F",
+    "cpf": {
+      "valor": "337.673.720-50",
+      "dataEmissao": "2022-09-08T03:00:00.000Z"
+    },
+    "rgs": [
+      {
+        "valor": "32.250.741-1",
+        "dataEmissao": "2016-03-25T03:00:00.000Z"
+      }
+    ],
+    "dataCadastro": "2024-01-19T03:00:00.000Z",
+    "telefones": [
+      {
+        "ddd": "14",
+        "numero": "98835-8678"
+      }
+    ],
+    "produtosConsumidos": [
+      {
+        "nome": "Máscara Capilar Nutritiva",
+        "valor": 45.9
+      },
+      {
+        "nome": "Protetor Térmico Capilar",
+        "valor": 28.4
+      },
+      {
+        "nome": "Spray Fixador de Cabelo",
+        "valor": 20
+      }
+    ],
+    "servicosConsumidos": [
+      {
+        "nome": "Barba Completa com Navalha",
+        "valor": 25
+      },
+      {
+        "nome": "Aplicação de Botox Facial",
+        "valor": 400
+      },
+      {
+        "nome": "Manicure Tradicional",
+        "valor": 35
+      },
+      {
+        "nome": "Hidratação Capilar",
+        "valor": 60
+      },
+      {
+        "nome": "Botox Capilar",
+        "valor": 150
+      }
+    ]
+  },
+  {
+    "nome": "Olívia Moura",
+    "nomeSocial": "Olívia Souza",
+    "genero": "F",
+    "cpf": {
+      "valor": "171.680.444-89",
+      "dataEmissao": "2016-03-23T03:00:00.000Z"
+    },
+    "rgs": [
+      {
+        "valor": "45.854.476-6",
+        "dataEmissao": "2013-05-01T03:00:00.000Z"
+      }
+    ],
+    "dataCadastro": "2024-11-08T03:00:00.000Z",
+    "telefones": [
+      {
+        "ddd": "58",
+        "numero": "94166-1682"
+      }
+    ],
+    "produtosConsumidos": [
+      {
+        "nome": "Shampoo Reconstrutor",
+        "valor": 22.3
+      },
+      {
+        "nome": "Sabonete Facial Detox",
+        "valor": 16.5
+      },
+      {
+        "nome": "Spray Fixador de Cabelo",
+        "valor": 20
+      }
+    ],
+    "servicosConsumidos": [
+      {
+        "nome": "Corte de Cabelo Feminino",
+        "valor": 50
+      },
+      {
+        "nome": "Corte de Cabelo Masculino",
+        "valor": 35
+      },
+      {
+        "nome": "Aplicação de Botox Facial",
+        "valor": 400
+      },
+      {
+        "nome": "Botox Capilar",
+        "valor": 150
+      }
+    ]
+  },
+  {
+    "nome": "Patrícia Araújo",
+    "nomeSocial": "Patrícia Barbosa",
+    "genero": "M",
+    "cpf": {
+      "valor": "968.582.364-79",
+      "dataEmissao": "2015-01-22T02:00:00.000Z"
+    },
+    "rgs": [
+      {
+        "valor": "40.929.931-2",
+        "dataEmissao": "2018-08-01T03:00:00.000Z"
+      }
+    ],
+    "dataCadastro": "2024-02-19T03:00:00.000Z",
+    "telefones": [
+      {
+        "ddd": "16",
+        "numero": "96478-1436"
+      }
+    ],
+    "produtosConsumidos": [
+      {
+        "nome": "Balm Pós-Barba Refrescante",
+        "valor": 26
+      },
+      {
+        "nome": "Condicionador Hidratante",
+        "valor": 24
+      },
+      {
+        "nome": "Shampoo Reconstrutor",
+        "valor": 22.3
+      },
+      {
+        "nome": "Espuma de Barbear Refrescante",
+        "valor": 21.75
+      }
+    ],
+    "servicosConsumidos": [
+      {
+        "nome": "Botox Capilar",
+        "valor": 150
+      },
+      {
+        "nome": "Corte de Cabelo Feminino",
+        "valor": 50
+      },
+      {
+        "nome": "Venda de Pomada Modeladora",
+        "valor": 45
+      },
+      {
+        "nome": "Design de Sobrancelhas",
+        "valor": 30
+      },
+      {
+        "nome": "Corte de Cabelo Masculino",
+        "valor": 35
+      }
+    ]
+  },
+  {
+    "nome": "Quésia Martins",
+    "nomeSocial": "Quésia Martins",
+    "genero": "M",
+    "cpf": {
+      "valor": "578.296.935-13",
+      "dataEmissao": "2015-07-04T03:00:00.000Z"
+    },
+    "rgs": [
+      {
+        "valor": "42.346.464-4",
+        "dataEmissao": "2016-07-11T03:00:00.000Z"
+      }
+    ],
+    "dataCadastro": "2024-03-07T03:00:00.000Z",
+    "telefones": [
+      {
+        "ddd": "94",
+        "numero": "99175-4677"
+      }
+    ],
+    "produtosConsumidos": [
+      {
+        "nome": "Condicionador Hidratante",
+        "valor": 24
+      },
+      {
+        "nome": "Spray Fixador de Cabelo",
+        "valor": 20
+      },
+      {
+        "nome": "Espuma de Barbear Refrescante",
+        "valor": 21.75
+      },
+      {
+        "nome": "Shampoo Reconstrutor",
+        "valor": 22.3
+      },
+      {
+        "nome": "Creme Hidratante para Mãos",
+        "valor": 18
+      }
+    ],
+    "servicosConsumidos": [
+      {
+        "nome": "Redução de Medidas com Drenagem",
+        "valor": 200
+      },
+      {
+        "nome": "Hidratação Capilar",
+        "valor": 60
+      },
+      {
+        "nome": "Massagem Relaxante",
+        "valor": 90
+      }
+    ]
+  },
+  {
+    "nome": "Rafaela Alves",
+    "nomeSocial": "Rafaela Almeida",
+    "genero": "M",
+    "cpf": {
+      "valor": "491.508.104-91",
+      "dataEmissao": "2021-08-07T03:00:00.000Z"
+    },
+    "rgs": [
+      {
+        "valor": "52.770.544-7",
+        "dataEmissao": "2015-11-26T02:00:00.000Z"
+      }
+    ],
+    "dataCadastro": "2024-12-02T03:00:00.000Z",
+    "telefones": [
+      {
+        "ddd": "89",
+        "numero": "99754-1267"
+      }
+    ],
+    "produtosConsumidos": [
+      {
+        "nome": "Creme Hidratante para Mãos",
+        "valor": 18
+      },
+      {
+        "nome": "Removedor de Esmalte Sem Acetona",
+        "valor": 9.5
+      },
+      {
+        "nome": "Esmalte Vermelho Intenso",
+        "valor": 12.9
+      }
+    ],
+    "servicosConsumidos": [
+      {
+        "nome": "Coloração de Cabelo",
+        "valor": 120
+      },
+      {
+        "nome": "Remoção de Rugas com Laser",
+        "valor": 300
+      },
+      {
+        "nome": "Design de Sobrancelhas",
+        "valor": 30
+      },
+      {
+        "nome": "Venda de Pomada Modeladora",
+        "valor": 45
+      }
+    ]
+  },
+  {
+    "nome": "Sabrina Ribeiro",
+    "nomeSocial": "Sabrina Martins",
+    "genero": "M",
+    "cpf": {
+      "valor": "473.768.646-51",
+      "dataEmissao": "2019-01-18T02:00:00.000Z"
+    },
+    "rgs": [
+      {
+        "valor": "40.863.716-1",
+        "dataEmissao": "2016-02-13T02:00:00.000Z"
+      }
+    ],
+    "dataCadastro": "2024-03-02T03:00:00.000Z",
+    "telefones": [
+      {
+        "ddd": "44",
+        "numero": "92960-9553"
+      }
+    ],
+    "produtosConsumidos": [
+      {
+        "nome": "Esmalte Vermelho Intenso",
+        "valor": 12.9
+      },
+      {
+        "nome": "Creme Hidratante para Mãos",
+        "valor": 18
+      },
+      {
+        "nome": "Máscara de Argila Verde",
+        "valor": 25
+      }
+    ],
+    "servicosConsumidos": [
+      {
+        "nome": "Manicure Tradicional",
+        "valor": 35
+      },
+      {
+        "nome": "Modelagem de Barba",
+        "valor": 30
+      }
+    ]
+  },
+  {
+    "nome": "Tatiane Moura",
+    "nomeSocial": "Tatiane Barbosa",
+    "genero": "M",
+    "cpf": {
+      "valor": "296.719.517-53",
+      "dataEmissao": "2022-07-12T03:00:00.000Z"
+    },
+    "rgs": [
+      {
+        "valor": "93.102.296-2",
+        "dataEmissao": "2011-11-02T02:00:00.000Z"
+      }
+    ],
+    "dataCadastro": "2024-10-28T03:00:00.000Z",
+    "telefones": [
+      {
+        "ddd": "31",
+        "numero": "91398-3868"
+      }
+    ],
+    "produtosConsumidos": [
+      {
+        "nome": "Óleo Capilar de Argan",
+        "valor": 38.5
+      },
+      {
+        "nome": "Pomada Modeladora Masculina",
+        "valor": 32
+      },
+      {
+        "nome": "Creme Anti-idade Facial",
+        "valor": 59.9
+      },
+      {
+        "nome": "Cera para Barba e Bigode",
+        "valor": 19.9
+      },
+      {
+        "nome": "Creme Hidratante para Mãos",
+        "valor": 18
+      }
+    ],
+    "servicosConsumidos": [
+      {
+        "nome": "Aplicação de Botox Facial",
+        "valor": 400
+      },
+      {
+        "nome": "Massagem Relaxante",
+        "valor": 90
+      },
+      {
+        "nome": "Tratamento para Emagrecimento",
+        "valor": 350
+      },
+      {
+        "nome": "Modelagem de Barba",
+        "valor": 30
+      },
+      {
+        "nome": "Pedicure Tradicional",
+        "valor": 40
+      }
+    ]
+  },
+  {
+    "nome": "Ursula Oliveira",
+    "nomeSocial": "Ursula Souza",
+    "genero": "M",
+    "cpf": {
+      "valor": "200.756.614-17",
+      "dataEmissao": "2015-09-27T03:00:00.000Z"
+    },
+    "rgs": [
+      {
+        "valor": "18.477.580-8",
+        "dataEmissao": "2012-11-02T02:00:00.000Z"
+      }
+    ],
+    "dataCadastro": "2024-10-26T03:00:00.000Z",
+    "telefones": [
+      {
+        "ddd": "72",
+        "numero": "94629-7765"
+      }
+    ],
+    "produtosConsumidos": [
+      {
+        "nome": "Tintura para Cabelo Loiro Claro",
+        "valor": 27.8
+      },
+      {
+        "nome": "Condicionador Hidratante",
+        "valor": 24
+      }
+    ],
+    "servicosConsumidos": [
+      {
+        "nome": "Design de Sobrancelhas",
+        "valor": 30
+      },
+      {
+        "nome": "Corte de Cabelo Masculino",
+        "valor": 35
+      },
+      {
+        "nome": "Barba Completa com Navalha",
+        "valor": 25
+      },
+      {
+        "nome": "Modelagem de Barba",
+        "valor": 30
+      },
+      {
+        "nome": "Remoção de Manchas na Pele",
+        "valor": 250
+      }
+    ]
+  },
+  {
+    "nome": "Vanessa Pereira",
+    "nomeSocial": "Vanessa Costa",
+    "genero": "M",
+    "cpf": {
+      "valor": "749.995.772-55",
+      "dataEmissao": "2015-09-26T03:00:00.000Z"
+    },
+    "rgs": [
+      {
+        "valor": "32.554.942-2",
+        "dataEmissao": "2019-02-10T02:00:00.000Z"
+      }
+    ],
+    "dataCadastro": "2024-09-01T03:00:00.000Z",
+    "telefones": [
+      {
+        "ddd": "95",
+        "numero": "97659-4460"
+      }
+    ],
+    "produtosConsumidos": [
+      {
+        "nome": "Condicionador Hidratante",
+        "valor": 24
+      },
+      {
+        "nome": "Tintura para Cabelo Loiro Claro",
+        "valor": 27.8
+      },
+      {
+        "nome": "Sérum para Crescimento de Cílios",
+        "valor": 39.99
+      },
+      {
+        "nome": "Esmalte Vermelho Intenso",
+        "valor": 12.9
+      },
+      {
+        "nome": "Sabonete Facial Detox",
+        "valor": 16.5
+      }
+    ],
+    "servicosConsumidos": [
+      {
+        "nome": "Tratamento para Queda de Cabelo",
+        "valor": 220
+      },
+      {
+        "nome": "Escova Progressiva",
+        "valor": 180
+      },
+      {
+        "nome": "Aplicação de Botox Facial",
+        "valor": 400
+      },
+      {
+        "nome": "Remoção de Manchas na Pele",
+        "valor": 250
+      },
+      {
+        "nome": "Botox Capilar",
+        "valor": 150
+      }
+    ]
+  },
+  {
+    "nome": "Wanda Rocha",
+    "nomeSocial": "Wanda Ferreira",
+    "genero": "M",
+    "cpf": {
+      "valor": "242.165.930-95",
+      "dataEmissao": "2017-02-26T03:00:00.000Z"
+    },
+    "rgs": [
+      {
+        "valor": "61.605.824-1",
+        "dataEmissao": "2012-05-07T03:00:00.000Z"
+      }
+    ],
+    "dataCadastro": "2024-07-24T03:00:00.000Z",
+    "telefones": [
+      {
+        "ddd": "45",
+        "numero": "93300-5337"
+      }
+    ],
+    "produtosConsumidos": [
+      {
+        "nome": "Protetor Térmico Capilar",
+        "valor": 28.4
+      },
+      {
+        "nome": "Esmalte Vermelho Intenso",
+        "valor": 12.9
+      },
+      {
+        "nome": "Removedor de Esmalte Sem Acetona",
+        "valor": 9.5
+      }
+    ],
+    "servicosConsumidos": [
+      {
+        "nome": "Tratamento para Queda de Cabelo",
+        "valor": 220
+      },
+      {
+        "nome": "Hidratação Capilar",
+        "valor": 60
+      },
+      {
+        "nome": "Remoção de Manchas na Pele",
+        "valor": 250
+      },
+      {
+        "nome": "Aplicação de Botox Facial",
+        "valor": 400
+      }
+    ]
+  },
+  {
+    "nome": "Ximena Rocha",
+    "nomeSocial": "Ximena Pereira",
+    "genero": "M",
+    "cpf": {
+      "valor": "696.999.191-42",
+      "dataEmissao": "2019-03-12T03:00:00.000Z"
+    },
+    "rgs": [
+      {
+        "valor": "40.607.589-7",
+        "dataEmissao": "2018-05-09T03:00:00.000Z"
+      }
+    ],
+    "dataCadastro": "2024-07-03T03:00:00.000Z",
+    "telefones": [
+      {
+        "ddd": "21",
+        "numero": "92916-4398"
+      }
+    ],
+    "produtosConsumidos": [
+      {
+        "nome": "Óleo Capilar de Argan",
+        "valor": 38.5
+      },
+      {
+        "nome": "Shampoo Antiqueda Masculino",
+        "valor": 34.2
+      }
+    ],
+    "servicosConsumidos": [
+      {
+        "nome": "Tratamento para Emagrecimento",
+        "valor": 350
+      },
+      {
+        "nome": "Massagem Relaxante",
+        "valor": 90
+      },
+      {
+        "nome": "Tratamento para Queda de Cabelo",
+        "valor": 220
+      },
+      {
+        "nome": "Venda de Pomada Modeladora",
+        "valor": 45
+      }
+    ]
+  },
+  {
+    "nome": "Yasmin Santos",
+    "nomeSocial": "Yasmin Moura",
+    "genero": "M",
+    "cpf": {
+      "valor": "269.914.381-99",
+      "dataEmissao": "2016-08-11T03:00:00.000Z"
+    },
+    "rgs": [
+      {
+        "valor": "55.451.947-8",
+        "dataEmissao": "2020-01-25T03:00:00.000Z"
+      }
+    ],
+    "dataCadastro": "2024-07-02T03:00:00.000Z",
+    "telefones": [
+      {
+        "ddd": "69",
+        "numero": "98099-8003"
+      }
+    ],
+    "produtosConsumidos": [
+      {
+        "nome": "Cera para Barba e Bigode",
+        "valor": 19.9
+      },
+      {
+        "nome": "Sabonete Facial Detox",
+        "valor": 16.5
+      }
+    ],
+    "servicosConsumidos": [
+      {
+        "nome": "Venda de Pomada Modeladora",
+        "valor": 45
+      },
+      {
+        "nome": "Corte de Cabelo Masculino",
+        "valor": 35
+      },
+      {
+        "nome": "Botox Capilar",
+        "valor": 150
+      }
+    ]
+  },
+  {
+    "nome": "Zuleica Lima",
+    "nomeSocial": "Zuleica Araújo",
+    "genero": "M",
+    "cpf": {
+      "valor": "987.572.709-19",
+      "dataEmissao": "2023-09-01T03:00:00.000Z"
+    },
+    "rgs": [
+      {
+        "valor": "54.919.583-6",
+        "dataEmissao": "2012-12-24T02:00:00.000Z"
+      }
+    ],
+    "dataCadastro": "2024-01-09T03:00:00.000Z",
+    "telefones": [
+      {
+        "ddd": "84",
+        "numero": "91000-9042"
+      }
+    ],
+    "produtosConsumidos": [
+      {
+        "nome": "Spray Fixador de Cabelo",
+        "valor": 20
+      },
+      {
+        "nome": "Creme Anti-idade Facial",
+        "valor": 59.9
+      },
+      {
+        "nome": "Sérum para Crescimento de Cílios",
+        "valor": 39.99
+      },
+      {
+        "nome": "Protetor Térmico Capilar",
+        "valor": 28.4
+      }
+    ],
+    "servicosConsumidos": [
+      {
+        "nome": "Hidratação Capilar",
+        "valor": 60
+      },
+      {
+        "nome": "Corte de Cabelo Masculino",
+        "valor": 35
+      }
+    ]
+  },
+  {
+    "nome": "Bruno Costa",
+    "nomeSocial": "Bruno Oliveira",
+    "genero": "M",
+    "cpf": {
+      "valor": "597.429.393-62",
+      "dataEmissao": "2023-01-15T03:00:00.000Z"
+    },
+    "rgs": [
+      {
+        "valor": "44.649.323-4",
+        "dataEmissao": "2010-09-18T03:00:00.000Z"
+      }
+    ],
+    "dataCadastro": "2024-10-16T03:00:00.000Z",
+    "telefones": [
+      {
+        "ddd": "31",
+        "numero": "92548-7208"
+      }
+    ],
+    "produtosConsumidos": [
+      {
+        "nome": "Spray Fixador de Cabelo",
+        "valor": 20
+      },
+      {
+        "nome": "Removedor de Esmalte Sem Acetona",
+        "valor": 9.5
+      },
+      {
+        "nome": "Cera para Barba e Bigode",
+        "valor": 19.9
+      }
+    ],
+    "servicosConsumidos": [
+      {
+        "nome": "Redução de Medidas com Drenagem",
+        "valor": 200
+      },
+      {
+        "nome": "Coloração de Cabelo",
+        "valor": 120
+      }
+    ]
+  },
+  {
+    "nome": "Carlos Rocha",
+    "nomeSocial": "Carlos Ribeiro",
+    "genero": "M",
+    "cpf": {
+      "valor": "957.410.482-81",
+      "dataEmissao": "2023-10-01T03:00:00.000Z"
+    },
+    "rgs": [
+      {
+        "valor": "11.794.530-6",
+        "dataEmissao": "2012-06-08T03:00:00.000Z"
+      }
+    ],
+    "dataCadastro": "2024-05-18T03:00:00.000Z",
+    "telefones": [
+      {
+        "ddd": "58",
+        "numero": "99635-5888"
+      }
+    ],
+    "produtosConsumidos": [
+      {
+        "nome": "Protetor Térmico Capilar",
+        "valor": 28.4
+      },
+      {
+        "nome": "Sabonete Facial Detox",
+        "valor": 16.5
+      }
+    ],
+    "servicosConsumidos": [
+      {
+        "nome": "Modelagem de Barba",
+        "valor": 30
+      },
+      {
+        "nome": "Tratamento para Queda de Cabelo",
+        "valor": 220
+      },
+      {
+        "nome": "Escova Progressiva",
+        "valor": 180
+      },
+      {
+        "nome": "Manicure Tradicional",
+        "valor": 35
+      }
+    ]
+  },
+  {
+    "nome": "Diego Ribeiro",
+    "nomeSocial": "Diego Gomes",
+    "genero": "M",
+    "cpf": {
+      "valor": "114.206.806-78",
+      "dataEmissao": "2018-12-05T02:00:00.000Z"
+    },
+    "rgs": [
+      {
+        "valor": "10.273.562-2",
+        "dataEmissao": "2015-07-26T03:00:00.000Z"
+      }
+    ],
+    "dataCadastro": "2024-06-16T03:00:00.000Z",
+    "telefones": [
+      {
+        "ddd": "40",
+        "numero": "91259-5476"
+      }
+    ],
+    "produtosConsumidos": [
+      {
+        "nome": "Creme Hidratante para Mãos",
+        "valor": 18
+      },
+      {
+        "nome": "Shampoo Antiqueda Masculino",
+        "valor": 34.2
+      },
+      {
+        "nome": "Condicionador Hidratante",
+        "valor": 24
+      },
+      {
+        "nome": "Shampoo Reconstrutor",
+        "valor": 22.3
+      }
+    ],
+    "servicosConsumidos": [
+      {
+        "nome": "Redução de Medidas com Drenagem",
+        "valor": 200
+      },
+      {
+        "nome": "Massagem Relaxante",
+        "valor": 90
+      },
+      {
+        "nome": "Venda de Shampoo Antiqueda",
+        "valor": 60
+      }
+    ]
+  },
+  {
+    "nome": "Eduardo Martins",
+    "nomeSocial": "Eduardo Barbosa",
+    "genero": "M",
+    "cpf": {
+      "valor": "604.658.271-72",
+      "dataEmissao": "2015-12-12T02:00:00.000Z"
+    },
+    "rgs": [
+      {
+        "valor": "92.590.696-9",
+        "dataEmissao": "2012-02-05T02:00:00.000Z"
+      }
+    ],
+    "dataCadastro": "2024-10-03T03:00:00.000Z",
+    "telefones": [
+      {
+        "ddd": "56",
+        "numero": "98879-7727"
+      }
+    ],
+    "produtosConsumidos": [
+      {
+        "nome": "Máscara de Argila Verde",
+        "valor": 25
+      },
+      {
+        "nome": "Óleo Capilar de Argan",
+        "valor": 38.5
+      },
+      {
+        "nome": "Tintura para Cabelo Loiro Claro",
+        "valor": 27.8
+      }
+    ],
+    "servicosConsumidos": [
+      {
+        "nome": "Pedicure Tradicional",
+        "valor": 40
+      },
+      {
+        "nome": "Tratamento para Emagrecimento",
+        "valor": 350
+      }
+    ]
+  }
+]

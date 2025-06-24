@@ -35,7 +35,7 @@ Este sistema foi desenvolvido para o Grupo World Beauty (WB) com o objetivo de f
 
 1. **Clone o repositório:**
    ```bash
-   git clone <URL_DO_SEU_REPOSITORIO>
+   git clone https://github.com/LucasAraujo1016/T1.git
    cd <PASTA_DO_PROJETO>
    ```
 

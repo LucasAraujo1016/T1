@@ -1,0 +1,82 @@
+[
+  {
+    "nome": "Manicure Tradicional",
+    "valor": 35
+  },
+  {
+    "nome": "Pedicure Tradicional",
+    "valor": 40
+  },
+  {
+    "nome": "Design de Sobrancelhas",
+    "valor": 30
+  },
+  {
+    "nome": "Corte de Cabelo Feminino",
+    "valor": 50
+  },
+  {
+    "nome": "Coloração de Cabelo",
+    "valor": 120
+  },
+  {
+    "nome": "Hidratação Capilar",
+    "valor": 60
+  },
+  {
+    "nome": "Escova Progressiva",
+    "valor": 180
+  },
+  {
+    "nome": "Botox Capilar",
+    "valor": 150
+  },
+  {
+    "nome": "Remoção de Rugas com Laser",
+    "valor": 300
+  },
+  {
+    "nome": "Remoção de Manchas na Pele",
+    "valor": 250
+  },
+  {
+    "nome": "Aplicação de Botox Facial",
+    "valor": 400
+  },
+  {
+    "nome": "Tratamento para Emagrecimento",
+    "valor": 350
+  },
+  {
+    "nome": "Redução de Medidas com Drenagem",
+    "valor": 200
+  },
+  {
+    "nome": "Corte de Cabelo Masculino",
+    "valor": 35
+  },
+  {
+    "nome": "Barba Completa com Navalha",
+    "valor": 25
+  },
+  {
+    "nome": "Modelagem de Barba",
+    "valor": 30
+  },
+  {
+    "nome": "Tratamento para Queda de Cabelo",
+    "valor": 220
+  },
+  {
+    "nome": "Massagem Relaxante",
+    "valor": 90
+  },
+  {
+    "nome": "Venda de Pomada Modeladora",
+    "valor": 45
+  },
+  {
+    "nome": "Venda de Shampoo Antiqueda",
+    "valor": 60
+  }
+]
